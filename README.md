@@ -1,7 +1,7 @@
 ### Olá! Denison Ferreira aqui 👋
 
-- 🔭 Hoje eu trabalho como fullStack javascript/typescript
-- 🌱 Estudando diariamente conteúdos da Rocketseat
+- 🔭 Hoje eu trabalho como dev mobile React Native
+- 🌱 Estudando sempre que dá
 - 🎮 Apaixonado por jogos em PC & Ps5
 
 <div align="center">
